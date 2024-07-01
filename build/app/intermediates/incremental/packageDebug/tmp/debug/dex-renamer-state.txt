@@ -1,0 +1,4 @@
+#Mon Jul 01 22:33:37 IST 2024
+base.0=/Users/mac3/Desktop/kk-projects/portfolio/portfolio/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
